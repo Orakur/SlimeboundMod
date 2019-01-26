@@ -185,8 +185,8 @@
   },
 "Slimebound:Recycling": {
     "NAME": "循环再生",
-    "DESCRIPTION": "在你的回合开始时，随机将1张已被消耗的0费牌放回你的手牌。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时，随机将1张已被消耗的0费牌放回你的手牌。"
+    "DESCRIPTION": "在接下来的 !M! 个回合开始时，随机将1张已被消耗的0费牌放回你的手牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在接下来的 !M! 个回合开始时，随机将1张已被消耗的0费牌放回你的手牌。"
   },
 "Slimebound:Repurpose": {
     "NAME": "重新考虑",
