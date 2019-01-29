@@ -92,8 +92,8 @@
   },
 "Slimebound:DivideAndConquer": {
     "NAME": "分而治之",
-    "DESCRIPTION": "造成 !D! 点伤害。 分裂 出1只 好斗史莱姆 或 酸液史莱姆 。 NL 消耗",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 分裂 出 好斗史莱姆 和 酸液史莱姆 。 NL 消耗"
+    "DESCRIPTION": "造成 !D! 点伤害。 随机 分裂 出1只 好斗史莱姆 或 酸液史莱姆 。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 分裂 出 好斗史莱姆 和 酸液史莱姆 各1只。 NL 消耗"
   },
 "Slimebound:LeadByExample": {
     "NAME": "身先士卒",
@@ -140,8 +140,8 @@
   },
 "Slimebound:FormABlockade": {
     "NAME": "障碍重重",
-    "DESCRIPTION": " 分裂 出1只 水蛭史莱姆 或 污泥史莱姆 。 NL 获得 !B! 点 格挡 ，每个 分裂 出的史莱姆使你获得额外的 !M! 点 格挡 。 NL 消耗",
-    "UPGRADE_DESCRIPTION": " 分裂 出 水蛭史莱姆 和 污泥史莱姆 。 NL 获得 !B! 点 格挡 ，每个 分裂 出的史莱姆使你获得额外的 !M! 点 格挡 。 NL 消耗"
+    "DESCRIPTION": "随机 分裂 出1只 水蛭史莱姆 或 污泥史莱姆 。 NL 获得 !B! 点 格挡 ，每个 分裂 出的史莱姆使你获得额外的 !M! 点 格挡 。 NL 消耗",
+    "UPGRADE_DESCRIPTION": " 分裂 出 水蛭史莱姆 和 污泥史莱姆 各1只。 NL 获得 !B! 点 格挡 ，每个 分裂 出的史莱姆使你获得额外的 !M! 点 格挡 。 NL 消耗"
   },
 "Slimebound:LeechingTouch": {
     "NAME": "吮吸之触",
@@ -522,7 +522,7 @@
     ]
   },
 "Slimebound:DonusPower": {
-    "NAME": " 力量之环",
+    "NAME": "力量之环",
     "DESCRIPTION": "获得 1 点 力量 。 NL 随机将1张攻击牌加入手牌，本回合的耗能变为0。 NL 消耗",
   "UPGRADE_DESCRIPTION": "获得 1 点 力量 和1层 人工制品 。 NL 将1张攻击牌加入手牌，本回合的耗能变为0。 NL 消耗"
 },
